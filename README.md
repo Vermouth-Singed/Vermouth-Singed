@@ -4,7 +4,9 @@
 ### `2021.09.06 ~ ing`
 ![java](https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge&logoColor=black)
 ![spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?logo=spring&style=for-the-badge&logoColor=white)
+![springboot](https://img.shields.io/badge/spring%20boot-6DB33F?logo=spring%20boot&style=for-the-badge&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge)
+![mariaDB](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&style=for-the-badge&logoColor=white)
 ![jquery](https://img.shields.io/badge/Jquery-0769AD?logo=jquery&style=for-the-badge)
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=darkblue)
 ### `2020.09.07 ~ 2021.03.14`
