@@ -37,6 +37,7 @@
 ![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=for-the-badge&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-232F3E?logo=amazon%20aws&style=for-the-badge)
 ![travis](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travis%20ci&style=for-the-badge&logoColor=white)
+![github-action](https://img.shields.io/badge/GithubAction-2088FF?logo=githubactions&style=for-the-badge&logoColor=white)
 ![nginx](https://img.shields.io/badge/NGINX-009639?logo=nginx&style=for-the-badge&logoColor=white)
 ![swagger](https://img.shields.io/badge/Swagger%20UI-85EA2D?logo=swagger&style=for-the-badge&logoColor=black)
 ![elasticsearch](https://img.shields.io/badge/Elastic%20Search-005571?logo=elasticsearch&style=for-the-badge&logoColor=white)
