@@ -2,7 +2,7 @@
 
 ## 1. My Career
 ### `2021.09.06 ~ ing`
-![java](https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge&logoColor=black)
+![java]([https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge&logoColor=black](https://img.shields.io/badge/Java-007396?logo=coffeescript&style=for-the-badge&logoColor=white))
 ![spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?logo=spring&style=for-the-badge&logoColor=white)
 ![springboot](https://img.shields.io/badge/spring%20boot-6DB33F?logo=spring%20boot&style=for-the-badge&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge)
@@ -10,13 +10,13 @@
 ![jquery](https://img.shields.io/badge/Jquery-0769AD?logo=jquery&style=for-the-badge)
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=darkblue)
 ### `2020.09.07 ~ 2021.03.14`
-![java](https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge&logoColor=black)
+![java]([https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge&logoColor=black](https://img.shields.io/badge/Java-007396?logo=coffeescript&style=for-the-badge&logoColor=white))
 ![springboot](https://img.shields.io/badge/spring%20boot-6DB33F?logo=spring%20boot&style=for-the-badge&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge)
 ![vuejs](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=for-the-badge&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-232F3E?logo=amazon%20aws&style=for-the-badge)
 ### `2017.04.10 ~ 2020.05.31`
-![java](https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge&logoColor=black)
+![java]([https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge&logoColor=black](https://img.shields.io/badge/Java-007396?logo=coffeescript&style=for-the-badge&logoColor=white))
 ![spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?logo=spring&style=for-the-badge&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white)
