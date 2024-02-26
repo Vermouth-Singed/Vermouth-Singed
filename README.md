@@ -45,3 +45,4 @@
 ![nginx](https://img.shields.io/badge/NGINX-009639?logo=nginx&style=for-the-badge&logoColor=white)
 ![swagger](https://img.shields.io/badge/Swagger%20UI-85EA2D?logo=swagger&style=for-the-badge&logoColor=black)
 ![elasticsearch](https://img.shields.io/badge/Elastic%20Search-005571?logo=elasticsearch&style=for-the-badge&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&style=for-the-badge&logoColor=black)
