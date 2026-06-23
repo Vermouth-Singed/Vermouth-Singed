@@ -4,8 +4,8 @@
 ### `2023.11.20 ~ ing`
 ![java](https://img.shields.io/badge/Java-007396?logo=coffeescript&style=for-the-badge&logoColor=white)
 ![springboot](https://img.shields.io/badge/spring%20boot-6DB33F?logo=spring%20boot&style=for-the-badge&logoColor=white)
-![typescript]([https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&style=for-the-badge&logoColor=white](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white))
-![fastify]([https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&style=for-the-badge&logoColor=white](https://img.shields.io/badge/Fastify-000000?logo=fastify&style=for-the-badge&logoColor=white))
+![typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
+![fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&style=for-the-badge&logoColor=white)
 ![mariaDB](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&style=for-the-badge&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?logo=Postgresql&style=for-the-badge&logoColor=white)
 ### `2021.09.06 ~ 2023.06.30`
