@@ -49,5 +49,5 @@
 ![swagger](https://img.shields.io/badge/Swagger%20UI-85EA2D?logo=swagger&style=for-the-badge&logoColor=black)
 ![elasticsearch](https://img.shields.io/badge/Elastic%20Search-005571?logo=elasticsearch&style=for-the-badge&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&style=for-the-badge&logoColor=black)
+![typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
 ![fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&style=for-the-badge&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-4169E1?logo=Postgresql&style=for-the-badge&logoColor=white)
